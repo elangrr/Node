@@ -222,7 +222,7 @@ mkdir $HOME/nearcore/logs
 nano $HOME/nearcore/scripts/ping.sh
 ```
 
-Edit "PoolID" && "AccountID"
+Edit "PoolID" && "AccountID", dont add ".shardnet.near" !!
 
 
 ```bash
